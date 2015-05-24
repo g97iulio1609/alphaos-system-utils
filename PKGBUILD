@@ -24,7 +24,8 @@ depends=(
 'unrar'
 'wget'
 'xdg-user-dirs-gtk'
-
+'pulseaudio'
+'pulseaudio-alsa'
 )
 
 
